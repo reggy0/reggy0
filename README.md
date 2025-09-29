@@ -1,6 +1,7 @@
-# Hi there, I'm Sagar 👋  
 
-<img src="https://github.com/shahsagarm/sagarshah.dev/blob/main/public/images/sagar.png" alt="Sagar Shah" width="150" align="right" style="border-radius:50%;" />
+<img src="https://github.com/shahsagarm/sagarshah.dev/blob/main/public/images/sagar.png" />
+
+# Hi there, I'm Regan Omolo 👋  
 
 ## 🚀 About Me  
 I’m a **Full Stack Developer** with a passion for building scalable, user-friendly, and modern web applications.  
