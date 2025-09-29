@@ -1,5 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/reggy0/reggy0/main/WhatsApp%20Image%202025-09-29%20at%205.15.34%20PM.jpeg" alt="Profile Image" width="300"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reggy0/reggy0/main/WhatsApp%20Image%202025-09-29%20at%205.15.34%20PM.jpeg" alt="Profile Banner" width="100%" />
+</p>
+
 
 
 # Hi there, I'm Regan Omolo 👋  
