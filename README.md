@@ -1,5 +1,5 @@
 
-<img src="https://github.com/shahsagarm/sagarshah.dev/blob/main/public/images/sagar.png" />
+<img src="[https://github.com/shahsagarm/sagarshah.dev/blob/main/public/images/sagar.png](https://github.com/reggy0/reggy0/blob/main/WhatsApp%20Image%202025-09-29%20at%205.15.34%20PM.jpeg)" />
 
 # Hi there, I'm Regan Omolo 👋  
 
